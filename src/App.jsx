@@ -27,10 +27,8 @@ const siteProps = {
   name: "Nabil Chaouki",
   title: ".Net Developer | Full Stack Developer",
   email: "chaoukinabil25@gmail.com",
-  gitHub: "https://github.com/Nabil-Chaouki",
-
+  gitHub: "Nabil-Chaouki",
   linkedIn: "chaouki-nabil",
-  medium: "",
 };
 
 const primaryColor = "#4E567E";
